@@ -2,8 +2,8 @@ package com.duelistic.ranks;
 
 import com.duelistic.Rank;
 
-public class Master extends Rank {
-    public Master() {
+public class MasterRank extends Rank {
+    public MasterRank() {
         super("Master", 1600, -1);
     }
 }
